@@ -1,0 +1,15 @@
+.wp-embedded-content iframe,  
+.wp-embedded-content object,  
+.wp-embedded-content embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+.entry-content img, 
+.entry-content iframe, 
+.entry-content object, 
+.entry-content embed {
+        max-width: 100%;
+}

@@ -1,0 +1,365 @@
+# Translation of Plugins - Leaflet Map - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Leaflet Map - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-28 18:15:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Leaflet Map - Stable (latest release)\n"
+
+#: templates/shortcode-helper.php:111
+msgid "Add KML by URL"
+msgstr "KML von URL hinzufügen"
+
+#: templates/shortcode-helper.php:115
+msgid "Add GPX by URL"
+msgstr "GPX von URL hinzufügen"
+
+#: class.plugin-settings.php:291
+msgid "You are unlikely to ever be charged for geocoding."
+msgstr "Du wirst höchstwahrscheinlich nie etwas für die Georeferezierung zahlen müssen."
+
+#: class.plugin-settings.php:290
+msgid "You must create a project and set up a billing account, then you will be given an API key."
+msgstr "Du musst zuerst ein Projekt anlegen, sowie eine Bezahlmethode hinterlegen, um einen API-Schlüssel zu erhalten."
+
+#: class.plugin-settings.php:288
+msgid "The Google Geocoder requires an API key with the Places product enabled"
+msgstr "Zum Zugriff auf den Google-Georeferenzierer benötigst du einen API-Schlüssel für den das „Places“-Produkt aktiviert ist."
+
+#: class.plugin-settings.php:283
+msgid "Supply a Google API Key"
+msgstr "Gib deinen Google-API-Schlüssel ein"
+
+#: class.plugin-settings.php:282
+msgid "Google API Key (optional)"
+msgstr "Google-API-Schlüssel (optional)"
+
+#: templates/shortcode-helper.php:122
+msgid "Image Map"
+msgstr "Karte aus einem Bild"
+
+#: templates/shortcode-helper.php:62
+msgid "SVG Marker Icon"
+msgstr "Markierungssymbol als SVG"
+
+#: templates/shortcode-helper.php:88
+msgid "Basic Circle"
+msgstr "Einfacher Kreis"
+
+#: templates/shortcode-helper.php:41
+msgid "Examples"
+msgstr "Beispiele"
+
+#: templates/settings.php:61
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: class.plugin-settings.php:121
+msgid "Default Width"
+msgstr "Standardbreite"
+
+#: class.plugin-settings.php:111
+msgid "Default Height"
+msgstr "Standardhöhe"
+
+#: class.plugin-settings.php:222 class.plugin-settings.php:289
+msgid "here"
+msgstr "hier"
+
+#: templates/settings.php:101
+msgid "Reset to Defaults"
+msgstr "Auf Standardwerte zurücksetzen"
+
+#: templates/shortcode-helper.php:45
+msgid "Standard"
+msgstr "Standard"
+
+#. Author of the plugin
+msgid "bozdoz"
+msgstr "bozdoz"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/leaflet-map/"
+msgstr "https://wordpress.org/plugins/leaflet-map/"
+
+#. Plugin Name of the plugin
+msgid "Leaflet Map"
+msgstr "Leaflet Map"
+
+#: class.plugin-settings.php:276
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: templates/settings.php:96
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: class.plugin-settings.php:265
+msgid "contributors"
+msgstr "Mitwirkende"
+
+#: templates/shortcode-helper.php:80
+msgid "Basic Lines w/Scrollwheel"
+msgstr "Einfache Strecken mit Mausradbedienung"
+
+#: templates/shortcode-helper.php:76
+msgid "Links In Marker Messages (visible)"
+msgstr "Links in Markierungsbeschreibungen (sichtbar)"
+
+#: templates/shortcode-helper.php:66
+msgid "Zoom Buttons"
+msgstr "Zoomknöpfe"
+
+#: templates/shortcode-helper.php:58
+msgid "Marker Icon"
+msgstr "Markierungssymbol"
+
+#: templates/shortcode-helper.php:54
+msgid "Draggable Marker"
+msgstr "Bewegbare Markierung"
+
+#: templates/shortcode-helper.php:48
+msgid "Many Markers!"
+msgstr "Viele Markierungen!"
+
+#: templates/shortcode-helper.php:39
+msgid "Marker Shortcode"
+msgstr "Markierungs-Shortcode"
+
+#: templates/shortcode-helper.php:38
+msgid "Map Shortcode"
+msgstr "Karten-Shortcode"
+
+#: templates/shortcode-helper.php:36
+msgid "Interactive Shortcodes:"
+msgstr "Interaktive Shortcodes"
+
+#: templates/settings.php:106
+msgid "Clear Geocoder Cache"
+msgstr "Leere Georeferenzen-Zwischenspeicher"
+
+#: templates/settings.php:52
+msgid "Location caches have been cleared!"
+msgstr "Georeferenzen-Zwischenspeicher wurde geleert."
+
+#: class.plugin-settings.php:277
+msgid "Denmark Addresses"
+msgstr "Dänische Adressen"
+
+#: class.plugin-settings.php:275
+msgid "OpenStreetMap Nominatim"
+msgstr "OpenStreetMap Nominatim"
+
+#: class.plugin-settings.php:271
+msgid "Geocoder"
+msgstr "Georeferenzierer"
+
+#: class.plugin-settings.php:261
+msgid "Default Attribution"
+msgstr "Standard Namensnennung"
+
+#: class.plugin-settings.php:258
+msgid "Same as above."
+msgstr "Siehe oben."
+
+#: class.plugin-settings.php:252
+msgid "If you host your own Leaflet files, then paste the URL here."
+msgstr "Falls du deine eigenen Leaflet-Dateien bereitstellst, gib hier die entsprechende URL an."
+
+#: class.plugin-settings.php:224
+msgid "blog post"
+msgstr "Blogbeitrag"
+
+#: class.plugin-settings.php:211
+msgid "Create a new app"
+msgstr "Erstelle eine neue App"
+
+#: class.plugin-settings.php:210
+msgid "then"
+msgstr "dann"
+
+#: class.plugin-settings.php:186
+msgid "Restrict the viewer from zooming out past the maximum zoom.  Can set per map in shortcode or adjust for all maps here"
+msgstr "Verhindere dass die Anzeige mehr als das maximale Zoomlevel herausgezoomt wird. Kann in den Shortcodes für einzelne Karten angepasst oder hier global gesetzt werden."
+
+#: class.plugin-settings.php:181
+msgid "Default Max Zoom"
+msgstr "Standard maximaler Zoom"
+
+#: class.plugin-settings.php:171
+msgid "Default Min Zoom"
+msgstr "Standard minimaler Zoom"
+
+#: class.plugin-settings.php:156
+msgid "Disable zoom with mouse scroll wheel.  Sometimes someone wants to scroll down the page, and not zoom the map."
+msgstr "Deaktiviere zoomen mit dem Mausrad. Vielleicht möchte jemand die Seite und nicht die Karte scrollen."
+
+#: class.plugin-settings.php:151
+msgid "Scroll Wheel Zoom"
+msgstr "Mausrad-Zoomen"
+
+#: class.plugin-settings.php:131
+msgid "Fit Markers"
+msgstr "Auf Markierungen zuschneiden"
+
+#: templates/shortcode-helper.php:100
+msgid "Disable all Interaction"
+msgstr "Unterbinde alle Benutzerinteraktionen"
+
+#: templates/shortcode-helper.php:96
+msgid "More Crazy Line Attributes"
+msgstr "Weitere verrückte Streckenattribute"
+
+#: templates/shortcode-helper.php:92
+msgid "Fitted Colored Line on Addresses"
+msgstr "Farbige Strecke um Adressen herum"
+
+#: templates/shortcode-helper.php:72
+msgid "Marker Popup Messages (on click)"
+msgstr "Pop-up-Text an Markierung (bei Klick)"
+
+#: templates/shortcode-helper.php:69
+msgid "Alternate Map Tiles w/scrollwheel"
+msgstr "Alternative Kartenkacheln; mit Mausradzoom"
+
+#: templates/shortcode-helper.php:37
+msgid "Move the map and the marker to generate shortcodes below:"
+msgstr "Bewege Karte und Markierung um in den folgenden Feldern Shortcodes zu erzeugen."
+
+#: templates/shortcode-helper.php:27
+msgid "Drag Me"
+msgstr "Hier ziehen"
+
+#: templates/settings.php:44
+msgid "Options have been reset to default values!"
+msgstr "Optionen wurden auf ihre Standardwerte zurückgesetzt!"
+
+#: templates/settings.php:37
+msgid "Options Updated!"
+msgstr "Optionen wurden aktualisiert."
+
+#. Description of the plugin
+#: templates/settings.php:12
+msgid "A plugin for creating a Leaflet JS map with a shortcode. Boasts two free map tile services and three free geocoders."
+msgstr "Ein Plugin um Leaflet-JS-Karten mittels Shortcodes zu erzeugen. Kann mit zwei freien Kartenkachel-Diensten und drei freien Georeferenzierern aufwarten."
+
+#: class.plugin-settings.php:279
+msgid "Select the Geocoding provider to use to retrieve addresses defined in shortcode."
+msgstr "Wähle den Georeferenzierer aus, mit dem Adressen in Shortcodes in Koordinaten konvertiert werden sollen."
+
+#: class.plugin-settings.php:268
+msgid "Attribution to a custom tile url.  Use semi-colons (;) to separate multiple."
+msgstr "Namensnennung einer individuellen Kartenkachel-URL. Du kannst mehrere URLs durch Semikola (;) getrennt angeben."
+
+#: class.plugin-settings.php:264
+msgid "A JS library for interactive maps"
+msgstr "Eine Javascript-Bibliothek für interaktive Karten"
+
+#: class.plugin-settings.php:255
+msgid "CSS URL"
+msgstr "CSS-URL"
+
+#: class.plugin-settings.php:249
+msgid "JavaScript URL"
+msgstr "JavaScript-URL"
+
+#: class.plugin-settings.php:234
+msgid "Some maps get tiles from multiple servers with subdomains such as a,b,c,d or 1,2,3,4"
+msgstr "Einige Karten benutzen Kacheln von mehreren Servern mit verschiedenen Subdomains wie z.B. a, b, c, d oder 1, 2, 3, 4."
+
+#: class.plugin-settings.php:229
+msgid "Map Tile URL Subdomains"
+msgstr "Kartenkachel-URL-Subdomains"
+
+#: class.plugin-settings.php:221
+msgid "See more tile servers"
+msgstr "Mehr Kartenkachel-Server anzeigen"
+
+#: class.plugin-settings.php:216
+msgid "Map Tile URL"
+msgstr "Kartenkachel-URL"
+
+#: class.plugin-settings.php:209
+msgid "Sign up"
+msgstr "Registriere dich"
+
+#: class.plugin-settings.php:212
+msgid "then supply the \"Consumer Key\" here."
+msgstr "und gib anschließend den „Verbraucher-Schlüssel” hier an."
+
+#: class.plugin-settings.php:199
+msgid "Choose a tiling service or provide your own."
+msgstr "Wähle einen Kachel-Service oder gib einen individuellen an."
+
+#: class.plugin-settings.php:196
+msgid "I will provide my own map tile URL"
+msgstr "Ich möchte meine eigene Kartenkachel-URL angeben."
+
+#: class.plugin-settings.php:192
+msgid "Default Tiling Service"
+msgstr "Standard Kacheldienst"
+
+#: class.plugin-settings.php:176
+msgid "Restrict the viewer from zooming in past the minimum zoom.  Can set per map in shortcode or adjust for all maps here."
+msgstr "Verhindere dass die Anzeige stärker als der minimale Zoom hineingezoomt wird. Kann in den Shortcodes für einzelne Karten angepasst oder hier global gesetzt werden."
+
+#: class.plugin-settings.php:166
+msgid "If enabled, your maps will zoom with a double click.  By default it is disabled: If we're going to remove zoom controls and have scroll wheel zoom off by default, we might as well stick to our guns and not zoom the map."
+msgstr "Falls aktiviert, werden deine Karten mit einem Doppelklick hineingezoomt. Dies ist standardmäßig deaktiviert: Da wir die Zoombedienung entfernen und das Mausradzoomen standardmäßig deaktivieren, können wir auch konsistent bleiben und die Karte garnicht zoomen lassen."
+
+#: class.plugin-settings.php:161
+msgid "Double Click Zoom"
+msgstr "Doppelklick zum Zoomen"
+
+#: class.plugin-settings.php:146
+msgid "The zoom buttons can be large and annoying."
+msgstr "Die Zoom-Buttons können groß und störend sein."
+
+#: class.plugin-settings.php:141
+msgid "Show Zoom Controls"
+msgstr "Zeige Zoom-Buttons"
+
+#: class.plugin-settings.php:136
+msgid "If enabled, all markers on each map will alter the view of the map; i.e. the map will fit to the bounds of all of the markers on the map."
+msgstr "Falls aktiviert, bestimmen die Markierungen den sichtbaren Kartenausschnitt; d.h. die Karte wird auf den Bereich aller Markierungen zugeschnitten."
+
+#: class.plugin-settings.php:126
+msgid "Default width for maps. Values can include \"px\" but it is not necessary.  Can also be \"%\"."
+msgstr "Standardbreite der Karten. Der Wert kann in Pixeln („300&nbsp;px“) oder Prozent („100&nbsp;%“) angegeben werden. Bei fehlender Einheit wird er als Pixelzahl interpretiert."
+
+#: class.plugin-settings.php:116
+msgid "Default height for maps. Values can include \"px\" but it is not necessary. Can also be \"%\". "
+msgstr "Standardhöhe der Karten. Der Wert kann in Pixeln („300&nbsp;px“) oder Prozent („100&nbsp;%“) angegeben werden. Bei fehlender Einheit wird er als Pixelzahl interpretiert."
+
+#: class.plugin-settings.php:81
+msgid "Default Latitude"
+msgstr "Standardwert für die geographische Breite"
+
+#: class.plugin-settings.php:74
+msgid "You can also change this for each map"
+msgstr "Du kannst dies auch bei jeder einzelnen Karte individuell anpassen"
+
+#: class.plugin-settings.php:106
+msgid "Default zoom for maps."
+msgstr "Standard Zoomstufe"
+
+#: class.plugin-settings.php:101
+msgid "Default Zoom"
+msgstr "Standard Zoomstufe"
+
+#: class.plugin-settings.php:91
+msgid "Default Longitude"
+msgstr "Standardwert für die geographische Länge"
+
+#: class.plugin-settings.php:86
+msgid "Default latitude for maps."
+msgstr "Standardwert für die geographische Breite in Karten."
+
+#: class.plugin-settings.php:96
+msgid "Default longitude for maps."
+msgstr "Standardwert für die geographische Länge in Karten."
